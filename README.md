@@ -1,21 +1,21 @@
-# 🛒 Eticaret_Web
-Modern ve kullanıcı dostu bir e-ticaret web uygulaması.  
+# 🛒 Elegance_Web
+Elegance Mağazasına modern ve kullanıcı dostu bir e-ticaret web uygulaması.  
 Bu proje, kullanıcıların ürünleri inceleyebileceği, sepete ekleyebileceği ve alışveriş deneyimi yaşayabileceği şekilde geliştirilmiştir.
 
-## 🚀 Özellikler
+Özellikler
 
-- 🔐 Kullanıcı giriş / kayıt sistemi
-- 🛍️ Ürün listeleme
-- 🔎 Ürün arama ve filtreleme
-- 🛒 Sepet sistemi
-- ❤️ Favorilere ekleme
-- 📱 Responsive tasarım
-- ⚡ Modern kullanıcı arayüzü
-- 🧾 Sipariş ve ödeme akışı
+Kullanıcı giriş / kayıt sistemi
+Ürün listeleme
+Ürün arama ve filtreleme
+Sepet sistemi
+Favorilere ekleme
+Responsive tasarım
+Modern kullanıcı arayüzü
+Sipariş ve ödeme akışı
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 ### Frontend
 - HTML
@@ -30,10 +30,6 @@ Bu proje, kullanıcıların ürünleri inceleyebileceği, sepete ekleyebileceği
 
 ---
 
-## 🎯 Proje Amacı
-
-Bu proje, modern web teknolojileri kullanılarak gerçek bir e-ticaret deneyimi oluşturmak amacıyla geliştirilmiştir.  
-Hem frontend hem backend geliştirme süreçlerinde pratik yapmak ve full-stack deneyim kazanmak hedeflenmiştir.
 
 ---
 
